@@ -1,6 +1,6 @@
 ### Microservice for catch notifcations from rabbitmq and send emails
 
-
+This service will send emails with queued information about courses to emails enrolled to course
 
 ####  part (3) of microservices
 * (1) [Eureka Server](https://github.com/domKul/EurekaServer_microservice)
